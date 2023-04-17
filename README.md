@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Borja López Díaz, a recent full stack developer. I am a tech enthuasiast and I am looking forward to continue learning everything about web development. 
+I am Borja López Díaz, recently graduated full stack developer. I am a tech enthuasiast and I am looking forward to continue learning everything about web development. 
 
 
 ## 🌐 Socials:
