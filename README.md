@@ -1,9 +1,9 @@
-# 💫 About Me! 
+# 🚀 About Me:
 
 I am Borja López Díaz, recently graduated full stack developer. I am a tech enthuasiast and I am looking forward to continue learning everything about web development. 
 
 
-![WebDev_3](https://user-images.githubusercontent.com/122975457/232472740-9fb3407d-7acb-4d8f-b6f2-580026958d03.gif)
+![WebDev_4](https://user-images.githubusercontent.com/122975457/232562129-956b3a0e-5db3-4748-804d-9ab303d2d633.gif)
 
 
 
