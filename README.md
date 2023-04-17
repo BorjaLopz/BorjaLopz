@@ -3,7 +3,8 @@
 I am Borja López Díaz, recently graduated full stack developer. I am a tech enthuasiast and I am looking forward to continue learning everything about web development. 
 
 
-![WebDev_2](https://user-images.githubusercontent.com/122975457/232467563-5a6c7c46-52b4-4484-9b23-cc98d8e3b16e.gif)
+![WebDev_3](https://user-images.githubusercontent.com/122975457/232472740-9fb3407d-7acb-4d8f-b6f2-580026958d03.gif)
+
 
 
 ## 🌐 Socials:
