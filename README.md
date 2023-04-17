@@ -1,4 +1,5 @@
-# 💫 About Me! [HandWav](https://user-images.githubusercontent.com/122975457/232459768-4791f0eb-508a-4083-8662-0b9e88d3c194.gif)
+# 💫 About Me! ![WebDev](https://user-images.githubusercontent.com/122975457/232460236-5eac23d6-df79-49ee-beed-596b382785c2.gif)
+
 :
 I am Borja López Díaz, recently graduated full stack developer. I am a tech enthuasiast and I am looking forward to continue learning everything about web development. 
 
