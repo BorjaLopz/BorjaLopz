@@ -1,13 +1,13 @@
 # 🚀 About Me:
 
-I am Borja López Díaz, recently graduated full stack developer. I am a tech enthuasiast and I am looking forward to continue learning everything about web development. 
+<p align="center">I am Borja López Díaz, recently graduated full stack developer. I am a tech enthuasiast and I am looking forward to continue learning everything about web development. </p>
 
 
 ## 🌐 Socials:
 
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borjalopezdiaz/)
-  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/KnorKys) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/borjalopezdiaz/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align:center" /></a>  
+  <a href="https://codepen.io/https://codepen.io/KnorKys" target="_blank"><img alt="" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="vertical-align:center" /></a></p>
 
 
 # 💻 Tech Stack:
